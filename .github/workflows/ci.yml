@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     
     permissions:
-      contents: write/read
+      contents: write
   
     steps:
       - name: Clone repository
